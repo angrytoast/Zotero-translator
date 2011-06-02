@@ -11,6 +11,7 @@
         "lastUpdated": "2011-06-01 15:34:26"
 }
 
+
 function detectWeb(doc, url) {
 	url = doc.location.href;
 	if (url.indexOf("\/search\/") != -1) {
